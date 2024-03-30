@@ -1,6 +1,6 @@
 # C - Binary trees
 
-As part of a group project, we delved into the intricacies of using trees as data structures. Our focus was on understanding the pros and cons of their use, as well as learning how to qualify and traverse trees. During the project, we explored four different tree types: binary, binary search, AVL, and Max Binary Heap trees, and implemented them accordingly.
+In this group project, we delved into the intricacies of using trees as data structures. Our focus was on understanding the pros and cons of their use, as well as learning how to qualify and traverse trees. During the project, we explored four different tree types: binary, binary search, AVL, and Max Binary Heap trees, and implemented them accordingly.
 
 ## Tests :heavy_check_mark:
 
