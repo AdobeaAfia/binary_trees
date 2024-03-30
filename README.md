@@ -1,9 +1,6 @@
 # C - Binary trees
 
-This was a group project in which we learnt about the details, advantages,
-and disadvantages of using trees as data structures. We learned about how to
-qualify trees as well as how to traverse them. Throughout the project, we
-implemented binary, binary search, AVL, and Max Binary Heap trees.
+As part of a group project, we delved into the intricacies of using trees as data structures. Our focus was on understanding the pros and cons of their use, as well as learning how to qualify and traverse trees. During the project, we explored four different tree types: binary, binary search, AVL, and Max Binary Heap trees, and implemented them accordingly.
 
 ## Tests :heavy_check_mark:
 
@@ -181,7 +178,7 @@ Function Prototypes
 
 * **22. Rotate left**
   * [103-binary_tree_rotate_left.c](./103-binary_tree_rotate_left.c): C function
-  that performs a left-rotation on a binary tree.
+  that performs a left rotation on a binary tree.
   * Returns a pointer to the new root node of the tree after rotation.
 
 * **23. Rotate right**
@@ -198,7 +195,7 @@ Function Prototypes
   * [111-bst_insert.c](./111-bst_insert.c): C function that inserts a value into
   a binary search tree.
   * Returns a pointer to the new node, or `NULL` on failure.
-  * If the tree is `NULL`, the value becomes the root node.
+  * If the tree is `NULL`, the value will become the root node.
   * The value is ignored if it is already present in the tree.
 
 * **26. BST - Array to BST**
@@ -244,14 +241,14 @@ Function Prototypes
 
 * **35. Big O #AVL Tree**
   * [125-O](./125-O): Text file containing the average time complexities of AVL tree
-  opeartions (one answer per line):
+  operations (one answer per line):
     * Inserting the value `n`.
     * Removing the node with the value `n`.
     * Searching for a node in an AVL tree of size `n`.
 
 * **41. Big O #Binary Heap**
   * [135-O](./135-O): Text file containing the average time complexities of
-  binary heap opeartions (one answer per line):
+  binary heap operations (one answer per line):
     * Inserting the value `n`.
     * Extracting the root node.
     * Searching for a node in a binary heap of size `n`.
